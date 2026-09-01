@@ -2,6 +2,7 @@
 *.ps1
 *.bat
 *.cmd
+*.py
 *.txt
 *.tmp
 
@@ -26,4 +27,3 @@ desktop.ini
 *.docx
 *.ppt
 *.pptx
-
