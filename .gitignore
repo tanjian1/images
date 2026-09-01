@@ -1,0 +1,29 @@
+# Local helper files
+*.ps1
+*.bat
+*.cmd
+*.txt
+*.tmp
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Do not publish source or business documents
+*.psd
+*.psb
+*.ai
+*.xcf
+*.fig
+*.zip
+*.rar
+*.7z
+*.xls
+*.xlsx
+*.xlsm
+*.doc
+*.docx
+*.ppt
+*.pptx
+
